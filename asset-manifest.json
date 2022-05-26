@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.93f43736.chunk.css",
+    "main.js": "./static/js/main.aea26076.chunk.js",
+    "main.js.map": "./static/js/main.aea26076.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.60fff14b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.60fff14b.js.map",
+    "static/css/2.2894c9e2.chunk.css": "./static/css/2.2894c9e2.chunk.css",
+    "static/js/2.661b78cb.chunk.js": "./static/js/2.661b78cb.chunk.js",
+    "static/js/2.661b78cb.chunk.js.map": "./static/js/2.661b78cb.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "./static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.93f43736.chunk.css.map": "./static/css/main.93f43736.chunk.css.map",
+    "static/js/2.661b78cb.chunk.js.LICENSE.txt": "./static/js/2.661b78cb.chunk.js.LICENSE.txt",
+    "static/media/arrow-play-logo-vector_23987-136.0f3b7f92.webp": "./static/media/arrow-play-logo-vector_23987-136.0f3b7f92.webp",
+    "static/media/boxicons.min.css": "./static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "./static/media/footer-bg.67e95f05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60fff14b.js",
+    "static/css/2.2894c9e2.chunk.css",
+    "static/js/2.661b78cb.chunk.js",
+    "static/css/main.93f43736.chunk.css",
+    "static/js/main.aea26076.chunk.js"
+  ]
+}
